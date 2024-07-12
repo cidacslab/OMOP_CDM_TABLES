@@ -59,5 +59,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 https://github.com/OHDSI/Eunomia  
 https://github.com/oxford-pharmacoepi/PETDiagnostics
-
-https://github.com/oxford-pharmacoepi/PETDiagnostics
