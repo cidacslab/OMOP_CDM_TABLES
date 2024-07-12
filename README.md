@@ -1,4 +1,4 @@
-# OMOP_CDM_TABLES : GENERATING NEW AND ADAPTED CDM
+# OMOP_CDM_TABLES : GENERATING A NEW ADAPTED CDM
 
 This project contains several components to create and test a new and adaptable Common Data Model (CDM) based on the OMOP CDM standard.
 
